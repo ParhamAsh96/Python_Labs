@@ -1,4 +1,5 @@
-"""
+"""  Lab 6 -----> Level 2
+
 <<   While Loops   >>
 
 • You are writing a program for a vending machine
