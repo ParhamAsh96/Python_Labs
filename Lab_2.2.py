@@ -1,4 +1,6 @@
 """
+<<   Variables, Types and Expressions   >>
+
 Declare two variables to represent a product price and a discount percentage.
 Declare a variable with the product name.
 Calculate the price of the product, after applying the discount

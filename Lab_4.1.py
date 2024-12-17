@@ -1,4 +1,6 @@
 """
+<<   Conditionals   >>
+
 • Write a program that reads the first and last name of a person. If
 the first and last name are equal to one another, then print:
 • “Welcome <first_name>”.

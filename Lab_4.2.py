@@ -1,4 +1,6 @@
 """
+<<   Conditionals   >>
+
 • Write a program that reads the name of a person, three times.
 • If the same name is entered consecutively, then print the message:
 • “Hey <name>, you already entered your name.”

@@ -1,4 +1,6 @@
 """
+<<   For Loops   >>
+
 • Ask the user to enter a number
 • Create a multiplication table (from 1 to 10) of the number.
 
