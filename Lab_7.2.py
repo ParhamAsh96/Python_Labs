@@ -31,7 +31,7 @@ def personnummer_checker():
             YYYY = int(personnummer[0:4])
             MM   = int(personnummer[4:6])
             DD   = int(personnummer[6:8])
-            XXXX = int(personnummer[8:13])
+            XXXX = int(personnummer[8:12])
 
             return YYYY, MM, DD, XXXX
         
