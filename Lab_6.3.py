@@ -1,4 +1,5 @@
-"""
+"""  Lab 6 -----> Level 3
+
 <<   While Loops   >>
 
 • You are writing a program for Star Park, a company that manages parking lots.
