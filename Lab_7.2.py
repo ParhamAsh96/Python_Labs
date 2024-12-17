@@ -62,7 +62,7 @@ def menu(option, YYYY, MM, DD, XXXX):
     match option:
         case 1:
             YYYY, MM, DD, XXXX = personnummer_checker()
-            return YYYY, MM, DD, XXXX  # Return updated values
+            return YYYY, MM, DD, XXXX
         case 2:
             age_checker(YYYY)
         case 3:
