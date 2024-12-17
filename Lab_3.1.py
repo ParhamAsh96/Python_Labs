@@ -1,7 +1,8 @@
-"""
+"""  Lab 3 -----> Level 1
+
 <<   User Input and Formatted Strings   >>
 
-Ask the user to type the name of 5 of their favourite artists.
+Ask the user to type the name of 7 of their favourite artists.
 • Remember to distinguish between first name and last name when prompting.
 • Print the First and Last name of your chosen artists using the example below.
 • Last name must be completely uppercase
