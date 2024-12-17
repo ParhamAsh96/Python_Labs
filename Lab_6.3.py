@@ -1,4 +1,6 @@
 """
+<<   While Loops   >>
+
 • You are writing a program for Star Park, a company that manages parking lots.
 • Register a parking location and capacity (how many cars it can take).
 • Continuously ask whether a car is "entering" or "leaving" the parking lot, and display the current number

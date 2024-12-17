@@ -1,4 +1,6 @@
 """
+<<   For Loops   >>
+
 • Ask the user to type the name of 5 products and their respective price.
 • Decide on how to split your prompts to the user, and write in a comment a
 reflection justifying your choice of prompt.

@@ -1,4 +1,6 @@
 """
+<<   While Loops   >>
+
 • You are writing a program for a vending machine
 • Ask the user to enter the amount of money they currently have and what snack they want to buy.
 • The vending machine will keep accepting money and display the current amount it

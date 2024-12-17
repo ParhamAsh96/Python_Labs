@@ -1,4 +1,6 @@
 """
+<<   User Input and Formatted Strings   >>
+
 Ask the user to type the name of 5 products and their respective price.
 • Decide on how to split your prompts to the user, and write in a comment a reflection justifying your choice of prompt.
 • Print the list of products using the given template (next slide).

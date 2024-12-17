@@ -1,4 +1,6 @@
 """
+<<   Conditionals   >>
+
 • Combine your Month and Age to find out your guardian animal.
 • Read the month in which the user was born (1, 2, 3, ..., 12).
 • Read the age of the user.

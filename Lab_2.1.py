@@ -1,4 +1,6 @@
 """
+<<   Variables, Types and Expressions   >>
+
 You work in a dog shelter that has 81 dogs. 22 of
 these dogs are puppies. Write a program that
 prints the proportion of puppies in the shelter in
