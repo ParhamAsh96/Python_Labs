@@ -95,16 +95,21 @@ def menu_display():
     
 
 # Main Program
-YYYY, MM, DD, XXXX = personnummer_checker()
-menu_display()
+def main():
+    YYYY, MM, DD, XXXX = personnummer_checker()
+    menu_display()
 
-invalid_input = False
-while not invalid_input:
-    try:
-        while True:
-            option = int(input("Choose an option (1-4): "))
-            result = menu(option, YYYY, MM, DD, XXXX)
-            if result:
-                YYYY, MM, DD, XXXX = result
-    except ValueError:
-        print("Invalid input!")
+    invalid_input = False
+    while not invalid_input:
+        try:
+            while True:
+                option = int(input("Choose an option (1-4): "))
+                result = menu(option, YYYY, MM, DD, XXXX)
+                if result:
+                    YYYY, MM, DD, XXXX = result
+        except ValueError:
+            print("Invalid input!")
+
+
+if __name__ == "__main__":
+    main()
