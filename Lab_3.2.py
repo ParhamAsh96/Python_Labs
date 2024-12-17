@@ -1,4 +1,5 @@
-"""
+"""  Lab 3 -----> Level 2
+
 <<   User Input and Formatted Strings   >>
 
 Ask the user to type the name of 5 products and their respective price.
