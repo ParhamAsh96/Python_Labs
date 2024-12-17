@@ -1,4 +1,5 @@
-"""
+"""  Lab 6 -----> Level 1
+
 <<   While Loops   >>
 
 • Write a program that helps employees manage their working hours.
