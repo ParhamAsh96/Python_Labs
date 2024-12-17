@@ -1,4 +1,5 @@
-"""
+"""  Lab 2 -----> Level 2
+
 <<   Variables, Types and Expressions   >>
 
 Declare two variables to represent a product price and a discount percentage.
