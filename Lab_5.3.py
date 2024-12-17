@@ -1,4 +1,5 @@
-"""
+"""  Lab 5 -----> Level 3
+
 <<   For Loops   >>
 
 • Ask the user to type the name of 5 products and their respective price.
