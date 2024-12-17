@@ -96,6 +96,14 @@ def menu_display():
 
 # Main Program
 def main():
+
+    print(f"""
+    ........................................
+    ----------------------------------------
+    | Welcome to the personnummer checker! |
+    ----------------------------------------
+          """)
+          
     YYYY, MM, DD, XXXX = personnummer_checker()
     menu_display()
 
