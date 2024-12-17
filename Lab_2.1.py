@@ -1,4 +1,5 @@
-"""
+"""  Lab 2 -----> Level 1
+
 <<   Variables, Types and Expressions   >>
 
 You work in a dog shelter that has 81 dogs. 22 of
