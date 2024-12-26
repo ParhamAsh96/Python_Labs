@@ -95,6 +95,9 @@ def template():
 
     print(f"""| The average score is {avg_score}.            |
 -----------------------------------------""")
+    
+    print(f"""| Highest score: {highest_score:>3},  {names[highest_index][:16]:<16} |
+-----------------------------------------""")
 
 
 def main():
